@@ -1,0 +1,1 @@
+ffmpeg -i "$INPUT" -vf w3fdif -vcodec libx265 -preset p4 -pix_fmt yuv420p10le -profile:v main10 -cq 21 "$OUTPUT"

@@ -1,0 +1,4 @@
+data/streamfiles
+logs/*
+thumbnail/*
+.DS_Store
