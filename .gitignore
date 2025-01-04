@@ -1,4 +1,8 @@
-data/streamfiles
+.DS_Store
+data/*
 logs/*
 thumbnail/*
-.DS_Store
+
+!data/
+!logs/
+!thumbnail/
