@@ -3,6 +3,9 @@ data/*
 logs/*
 thumbnail/*
 
+!data/.gitkeep
 !data/
 !logs/
+!logs/.gitkeep
 !thumbnail/
+!thumbnail/.gitkeep
